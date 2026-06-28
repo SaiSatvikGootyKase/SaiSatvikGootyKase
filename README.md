@@ -172,7 +172,7 @@ Designed and delivered application modules end-to-end from database schema throu
 <a href="https://www.linkedin.com/in/saisatvik-gootykase/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.linkedin.com/in/saisatvik-gootykase/" target="_blank">
+<a href="https://saisatvikgootykase.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-View-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
