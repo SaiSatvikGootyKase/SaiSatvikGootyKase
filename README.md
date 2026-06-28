@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=180&section=header&text=Sai%20Satvik%20Gooty%20Kase&fontSize=42&fontColor=fff&animation=twinkling" alt="Header Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%40+Target;Computer+Science+and+IT+Student&font=Fira+Code&center=true&width=500&height=50&color=A855F7&background=00000000" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+Intern+%40+Target;Computer+Science+and+IT+Student&font=Fira+Code&center=true&width=500&height=50&color=A855F7&background=00000000" alt="Typing Animation"/>
 
 </div>
 
