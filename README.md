@@ -174,13 +174,9 @@ Designed and delivered application modules end-to-end from database schema throu
 </a>
 <a href="https://saisatvikgootykase.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-View-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-  <img src="https://img.shields.io/badge/Portfolio-View-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="**+91 83419 23555**
-"/>
-</a>
 
 <br/><br/>
-
+**+91 83419 23555**
 
 </div>
 
