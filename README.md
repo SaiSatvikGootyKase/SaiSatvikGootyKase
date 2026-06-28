@@ -141,22 +141,12 @@ Designed and delivered application modules end-to-end from database schema throu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaiSatvikGootyKase&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSatvikGootyKase&theme=radical&hide_border=true&background=0D1117&stroke=6D28D9&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&border_radius=10" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SaiSatvikGootyKase&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSatvikGootyKase&hide_border=true&background=0D1117&stroke=6D28D9&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=FFFFFF&border_radius=10" alt="GitHub Streak" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSatvikGootyKase&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&border_radius=10" alt="Top Languages"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaiSatvikGootyKase&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSatvikGootyKase&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&border_radius=10" alt="Top Languages"/>
 
 </div>
 
@@ -166,21 +156,7 @@ Designed and delivered application modules end-to-end from database schema throu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiSatvikGootyKase&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiSatvikGootyKase/SaiSatvikGootyKase/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiSatvikGootyKase/SaiSatvikGootyKase/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SaiSatvikGootyKase/SaiSatvikGootyKase/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiSatvikGootyKase&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -190,11 +166,19 @@ Designed and delivered application modules end-to-end from database schema throu
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Gmail-gk.saisatvik@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-<img src="https://img.shields.io/badge/Phone-%2B91%2083419%2023555-6D28D9?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+<a href="mailto:gk.saisatvik@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-gk.saisatvik@gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/saisatvik-gootykase/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.linkedin.com/in/saisatvik-gootykase/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+**+91 83419 23555**
 
 </div>
 
