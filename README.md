@@ -2,32 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=180&section=header&text=Sai%20Satvik%20Gooty%20Kase&fontSize=42&fontColor=fff&animation=twinkling" alt="Header Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer;Product-Minded+Engineer;Open+Source+Contributor&font=Fira+Code&center=true&width=700&height=50&color=A855F7&background=00000000" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Software+Engineer;Java+Spring+Boot+%7C+Microservices;Kafka+%7C+REST+APIs;Distributed+Systems+Engineer&font=Fira+Code&center=true&width=700&height=50&color=A855F7&background=00000000" alt="Typing Animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Degree"/>
-<img src="https://img.shields.io/badge/REVA%20University-Bengaluru-4C1D95?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
-<img src="https://img.shields.io/badge/Class%20of-2026-7C3AED?style=for-the-badge&logo=calendar&logoColor=white" alt="Graduation"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20IT-6A0DAD?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Degree"/>
+<img src="https://img.shields.io/badge/REVA%20University-Bangalore-4C1D95?style=for-the-badge&logo=academia&logoColor=white" alt="University"/>
+<img src="https://img.shields.io/badge/CGPA-8.74-7C3AED?style=for-the-badge&logo=star&logoColor=white" alt="CGPA"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Location-Bangalore%2C%20KA-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Phone-%2B91%2083419%2023555-312E81?style=flat-square&logo=phone&logoColor=white" alt="Phone"/>
 
 <br/><br/>
 
-<a href="https://portfolio-indol-nu-73.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/saisatvik-gootykase" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:saisatvikgootykase@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/SaiSatvikGootyKase" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Email-gk.saisatvik@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 <br/><br/>
 
@@ -41,22 +34,22 @@
 
 ## About
 
-**Software Engineer & AI/ML Practitioner** building intelligent, production-oriented systems across the full stack. Final-year **Computer Science** student at **REVA University, Bengaluru**, with a strong foundation in **software engineering principles**, **machine learning pipelines**, and **scalable web application development**.
+**Backend Software Engineer** with experience designing and developing **Java Spring Boot microservices**, **REST APIs**, and **Kafka-based event-driven systems**. Strong foundation in **distributed systems**, **database design**, and **backend development**, with a focus on writing scalable, maintainable, and production-ready applications.
 
-I specialize in translating complex engineering problems into reliable, user-centric products — from **deep learning healthcare systems** and **computer vision pipelines** to **full-stack platforms** with robust APIs, databases, and cloud-ready deployments. My work emphasizes **clean architecture**, **measurable performance**, **security-conscious design**, and **real-world impact**.
+Currently pursuing **B.Tech in Computer Science and Information Technology** at **REVA University, Bangalore** (CGPA: **8.74**). Experienced in shipping production features at **Target** and building full-stack modules at **Aikyam**, with additional strength in **ML-driven applications** and **AI-powered product development**.
 
 **Core Focus Areas**
-- Software Engineering — system design, API development, maintainable codebases
-- AI/ML — deep learning, NLP, predictive modeling, MLOps workflows
-- Full Stack Development — React, Java, Python, SQL, RESTful services
-- Product Engineering — end-to-end ownership from problem definition to deployment
+- Backend Engineering — Spring Boot, microservices, REST API design, event-driven architecture
+- Distributed Systems — Apache Kafka, service integration, OAuth 2.0, dependency modernization
+- Database Design — PostgreSQL, MySQL, MongoDB, schema modeling, query optimization
+- Full Stack Development — React.js frontends integrated with Spring Boot and Flask backends
+- Product Engineering — requirement analysis, clean code, end-to-end ownership, pre-release quality
 
 **Open To**
-- Software Engineering Internships & Full-Time Roles
-- AI/ML Engineering Opportunities
-- Full Stack Development Collaborations
-- Open Source Contributions
-- Research & Innovation Projects
+- Backend Software Engineering Roles
+- Full-Time Software Engineering Opportunities
+- Microservices & Distributed Systems Positions
+- Full Stack Engineering Collaborations
 
 ---
 
@@ -65,26 +58,32 @@ I specialize in translating complex engineering problems into reliable, user-cen
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,sql,bash&perline=8" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp&perline=8" alt="Languages"/>
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,bootstrap,tailwind&perline=7" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js&perline=7" alt="Frontend"/>
 </p>
 
 ### Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,mysql,postgres,mongodb,firebase&perline=8" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=spring,flask,mysql,postgres,mongodb&perline=8" alt="Backend"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,nginx,postman,vscode&perline=8" alt="Cloud DevOps"/>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode&perline=8" alt="Cloud DevOps"/>
 </p>
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Microservices-6D28D9?style=flat-square&logo=spring&logoColor=white" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
 
 ---
 
@@ -94,12 +93,11 @@ I specialize in translating complex engineering problems into reliable, user-cen
 
 | Domain | Proficiency | Details |
 |:-------|:-----------:|:--------|
-| Deep Learning & Computer Vision | Advanced | CNN architectures (ResNet50, VGG16, EfficientNet), YOLOv8 object detection, medical imaging, transfer learning |
-| Predictive Analytics & Regression | Advanced | Feature engineering, ensemble models, XGBoost, Random Forest, MLflow experiment tracking |
-| NLP & Text Analytics | Intermediate | Resume parsing, document analysis, text classification pipelines |
-| MLOps & Deployment | Intermediate | Streamlit apps, Docker containerization, AWS EC2 deployment, model versioning |
-| Data Engineering | Intermediate | ETL pipelines, data preprocessing, EDA, Pandas/NumPy workflows |
-| Audio & Signal Processing | Intermediate | Voice classification, spectral feature extraction, audio ML pipelines |
+| Predictive Modeling | Advanced | Random Forest models for student dropout risk prediction using academic performance data |
+| Recommendation Systems | Intermediate | Lecture recommendation module for personalized learning support in retention platforms |
+| AI Interview Systems | Advanced | Scoring engine evaluating clarity, confidence, and correctness in interview simulations |
+| ML Integration | Intermediate | Integrating trained models into Spring Boot backends and centralized student portals |
+| Generative AI | Intermediate | Certified in Generative AI fundamentals and applied AI product development |
 
 </div>
 
@@ -108,202 +106,42 @@ I specialize in translating complex engineering problems into reliable, user-cen
 ## Featured Projects
 
 <details>
-<summary><b>Tuberculosis Detection System</b></summary>
+<summary><b>Student Retention System — ML-Driven Web Application</b> · Ongoing</summary>
 
 <br/>
 
-> Deep learning-based chest X-ray analysis platform for tuberculosis detection using multiple CNN architectures with a production-ready Streamlit interface.
+> Full-stack platform predicting student dropout risk and delivering personalized learning support through ML-powered dashboards for students and faculty.
 
 | Attribute | Details |
 |:----------|:--------|
-| **Stack** | Python, TensorFlow, Streamlit, Docker, AWS EC2, ResNet50, VGG16, EfficientNetB0 |
-| **Scale** | 3,008 chest X-ray images · 3 model architectures · containerized deployment |
-| **Performance** | ~96% accuracy (EfficientNetB0) · AUC-ROC ~0.98 · real-time inference pipeline |
-| **Security** | Medical disclaimer compliance · anonymized dataset handling · container isolation |
-| **Impact** | Healthcare AI research tool enabling rapid TB screening assistance for clinical workflows |
-| **Repository** | [Tuberculosis-Detection-System](https://github.com/SaiSatvikGootyKase/Tuberculosis-Detection-System) |
+| **Stack** | React.js, Spring Boot, Random Forest, REST APIs, PostgreSQL/MySQL |
+| **Scale** | Centralized student portal · faculty dashboards · ML prediction services |
+| **Performance** | Random Forest models trained on academic performance data · lecture recommendation module |
+| **Security** | Role-based access for students and faculty · validated API inputs |
+| **Impact** | Early intervention for at-risk students through data-driven retention insights |
+| **Repository** | student-retention-system |
 
-Engineered an end-to-end medical imaging pipeline with data augmentation, transfer learning, early stopping, and comprehensive evaluation metrics. Deployed via Docker Compose on AWS with a responsive Streamlit UI supporting model selection, confidence scoring, and interactive probability visualization.
+Built Random Forest models to predict student dropout risk and designed a lecture recommendation module for personalized learning support. Developed a React.js frontend and Spring Boot backend, integrating ML models as prediction services within a centralized portal.
 
 </details>
 
 <details>
-<summary><b>Vehicle Number Plate Detection</b></summary>
+<summary><b>MockMeet.AI — AI Interview Simulation Platform</b> · Live</summary>
 
 <br/>
 
-> Custom multi-class YOLOv8 object detection system with OCR integration for real-time license plate recognition and vehicle classification.
+> AI-powered interview simulation platform with a modular backend, structured question flow, and intelligent scoring for technical and behavioral assessments.
 
 | Attribute | Details |
 |:----------|:--------|
-| **Stack** | Python, YOLOv8, Ultralytics, Streamlit, EasyOCR, OpenCV, Label Studio |
-| **Scale** | 5-class detection (plates, cars, buses, trucks, people) · 150 training epochs |
-| **Performance** | GPU-optimized inference · modular `src/` architecture · sub-second detection |
-| **Security** | Production nginx reverse proxy guidance · HTTPS cookie hardening · headless deployment |
-| **Impact** | Intelligent traffic monitoring and automated plate recognition for smart city applications |
-| **Repository** | [Vehicle-Number-Plate-Detection](https://github.com/SaiSatvikGootyKase/Vehicle-Number-Plate-Detection) |
+| **Stack** | Flask, React, SQLite, REST APIs, Python |
+| **Scale** | 5-question interview flow (3 technical + 2 behavioral) · session persistence |
+| **Performance** | Optimized API communication for faster response flow · SQLite-backed sessions |
+| **Security** | Modular API design · session data persistence with SQLite |
+| **Impact** | Realistic interview practice with automated scoring on clarity, confidence, and correctness |
+| **Repository** | MockMeet.AI |
 
-Built a refactored Streamlit application with separated concerns (`config`, `ui`, `vision`, `ocr` modules). Trained YOLOv8 Nano on a custom annotated dataset with HSV augmentation and cosine learning rate decay, optimized for low-VRAM GPU environments.
-
-</details>
-
-<details>
-<summary><b>Amazon Delivery Time Prediction</b></summary>
-
-<br/>
-
-> Machine learning platform predicting e-commerce delivery times using agent, geographic, environmental, and order-level features across 43,739 records.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Python, Scikit-learn, XGBoost, MLflow, Streamlit, Pandas, Seaborn |
-| **Scale** | 43,739 delivery records · 12+ engineered features · multi-model comparison |
-| **Performance** | RMSE/MAE/R² evaluation · MLflow experiment tracking · real-time Streamlit predictions |
-| **Security** | Serialized model artifacts · scaler/encoder pipeline isolation · reproducible training |
-| **Impact** | Logistics optimization enabling dynamic delivery estimates based on traffic and weather |
-| **Repository** | [Amazon-delivery-prediction](https://github.com/SaiSatvikGootyKase/Amazon-delivery-prediction) |
-
-Designed a complete data science pipeline — exploration, cleaning, haversine distance calculation, categorical encoding, and ensemble model training. Delivered an interactive Streamlit dashboard for real-time delivery time forecasting with agent performance insights.
-
-</details>
-
-<details>
-<summary><b>Automated Root Cause Analysis Platform</b></summary>
-
-<br/>
-
-> DevOps-oriented platform automating incident root cause analysis with shell-scripted orchestration and intelligent diagnostics workflows.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Shell, Bash, Linux, System Administration, Automation Scripts |
-| **Scale** | Multi-service diagnostic pipeline · automated log correlation |
-| **Performance** | Reduced manual triage time through scripted RCA workflows |
-| **Security** | Least-privilege script execution · environment-isolated diagnostics |
-| **Impact** | Accelerated incident resolution for production system reliability |
-| **Repository** | [Automated-Root-Cause-Analysis-platform](https://github.com/SaiSatvikGootyKase/Automated-Root-Cause-Analysis-platform) |
-
-Architected an automation-first RCA platform emphasizing operational efficiency, structured diagnostic flows, and repeatable incident investigation patterns for engineering teams.
-
-</details>
-
-<details>
-<summary><b>Human Voice Classification</b></summary>
-
-<br/>
-
-> Machine learning system for classifying human voice characteristics using audio signal processing and supervised learning techniques.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Python, Scikit-learn, Librosa, NumPy, Audio Processing |
-| **Scale** | Multi-class voice dataset · feature extraction pipeline |
-| **Performance** | Spectral feature-based classification with model evaluation metrics |
-| **Security** | Local inference pipeline · no external audio data transmission |
-| **Impact** | Voice biometrics and speaker identification research applications |
-| **Repository** | [Human-Voice-Classification](https://github.com/SaiSatvikGootyKase/Human-Voice-Classification) |
-
-Implemented an audio ML pipeline covering data preprocessing, feature extraction, model training, and evaluation for voice-based classification tasks.
-
-</details>
-
-<details>
-<summary><b>Student Retention System</b></summary>
-
-<br/>
-
-> Full-stack TypeScript application for tracking, analyzing, and improving student retention metrics with data-driven insights.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | TypeScript, React, Node.js, REST APIs, SQL |
-| **Scale** | Multi-module retention tracking · analytics dashboard |
-| **Performance** | Responsive UI · optimized data queries · modular component architecture |
-| **Security** | Role-based access patterns · input validation · secure API endpoints |
-| **Impact** | Institutional decision support for improving student engagement and outcomes |
-| **Repository** | [student-retention-system](https://github.com/SaiSatvikGootyKase/student-retention-system) |
-
-Built a type-safe full-stack platform emphasizing clean separation of concerns, scalable data models, and actionable retention analytics for academic administrators.
-
-</details>
-
-<details>
-<summary><b>Resume Analyzer</b></summary>
-
-<br/>
-
-> Intelligent resume parsing and analysis tool leveraging NLP techniques to evaluate candidate profiles and extract structured insights.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | JavaScript, Node.js, NLP, HTML, CSS |
-| **Scale** | Document parsing pipeline · structured output generation |
-| **Performance** | Fast client-side processing · keyword extraction · skills mapping |
-| **Security** | Client-side document handling · no persistent storage of sensitive data |
-| **Impact** | Streamlined recruitment screening and automated resume evaluation |
-| **Repository** | [Resume_analyzer](https://github.com/SaiSatvikGootyKase/Resume_analyzer) |
-
-Developed an NLP-driven resume analysis engine with skills extraction, experience parsing, and structured candidate profiling for hiring workflow optimization.
-
-</details>
-
-<details>
-<summary><b>igebra — Intelligent Algebra Platform</b></summary>
-
-<br/>
-
-> Python-based mathematical computation platform for algebraic problem solving with interactive learning capabilities.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Python, Mathematical Libraries, Algorithm Design |
-| **Scale** | Multi-topic algebra engine · step-by-step computation |
-| **Performance** | Optimized symbolic computation · modular function design |
-| **Security** | Input sanitization · sandboxed computation environment |
-| **Impact** | Educational technology tool for mathematics learning and practice |
-| **Repository** | [igebra](https://github.com/SaiSatvikGootyKase/igebra) |
-
-Engineered a computational algebra system focused on algorithmic correctness, extensible module design, and educational user experience.
-
-</details>
-
-<details>
-<summary><b>Expense Tracker</b></summary>
-
-<br/>
-
-> Full-featured personal finance management application with CRUD operations, categorization, and spending analytics.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Python, Flask/SQLite, HTML, CSS, JavaScript |
-| **Scale** | Multi-category expense tracking · persistent data storage |
-| **Performance** | Lightweight architecture · fast CRUD response times |
-| **Security** | Input validation · session management · data integrity constraints |
-| **Impact** | Personal finance visibility and budget management for end users |
-| **Repository** | [Expense-Tracker](https://github.com/SaiSatvikGootyKase/Expense-Tracker) |
-
-Delivered a production-quality expense management tool with intuitive UI, database persistence, and categorized spending reports.
-
-</details>
-
-<details>
-<summary><b>Vaccination Analysis</b></summary>
-
-<br/>
-
-> Data analytics platform for vaccination trend analysis, demographic insights, and public health reporting.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Python, Pandas, Matplotlib, Seaborn, Data Visualization |
-| **Scale** | Multi-dimensional vaccination dataset · statistical analysis pipeline |
-| **Performance** | Automated EDA reports · interactive visualizations |
-| **Security** | Anonymized public health data processing |
-| **Impact** | Public health decision support through data-driven vaccination insights |
-| **Repository** | [Vaccination_analysis](https://github.com/SaiSatvikGootyKase/Vaccination_analysis) |
-
-Built an analytical pipeline transforming raw vaccination data into actionable visual insights for trend identification and coverage analysis.
+Built a Flask backend with modular APIs for a structured interview flow and a scoring engine evaluating clarity, confidence, and correctness. Designed a clean React frontend with optimized API calls and SQLite-backed session persistence for seamless user experience.
 
 </details>
 
@@ -311,48 +149,49 @@ Built an analytical pipeline transforming raw vaccination data into actionable v
 
 ## Experience
 
-### Software Engineering Intern — CodSoft
-`Jun 2024 – Aug 2024`
+### Software Engineer Intern — Target
+`February 2026 – Present` · Bangalore, KA
 
-Developed production-quality web applications across multiple technology stacks as part of an intensive software development program. Delivered responsive frontends, Python-based backends, and interactive user experiences aligned with industry standards.
+Contributing to production backend systems and platform modernization initiatives across distributed microservices infrastructure.
 
 **Scope of Work**
-- Built dynamic web applications using HTML, CSS, JavaScript, and Python
-- Implemented CRUD operations, form validation, and responsive UI components
-- Developed full-stack features with API integration and database connectivity
-- Applied software engineering best practices including modular code structure and version control
+- Built Kafka consumer infrastructure for the Orbit service with validation, error-handling, and feedback publishing — boosting visibility for 3+ services
+- Resolved SCA vulnerabilities across 4 production repositories, shrinking the platform's attack surface
+- Modernized the platform by replacing legacy Token Manager with OAuth 2.0 and upgrading core dependencies
+- Shipped Taskboard and Chronos enhancements — deadline filtering, dynamic project filters, and new DELETE APIs
 
-`JavaScript` `Python` `HTML/CSS` `React` `Full Stack` `Web Development`
+`Java` `Spring Boot` `Apache Kafka` `OAuth 2.0` `Microservices` `REST APIs` `Security`
 
 ---
 
-### Machine Learning Engineer — Academic Research Projects
-`Jan 2024 – Present`
+### Software Engineer Intern — Aikyam
+`January 2026 – February 2026` · Bangalore, KA
 
-Led end-to-end development of machine learning systems spanning healthcare AI, computer vision, predictive analytics, and NLP applications. Owned the full lifecycle from data preprocessing through model deployment.
+Designed and delivered application modules end-to-end from database schema through REST APIs to user interface.
 
 **Scope of Work**
-- Designed and trained deep learning models for medical imaging and object detection
-- Built MLOps pipelines with MLflow tracking, Docker containerization, and AWS deployment
-- Engineered feature pipelines processing 40K+ records with automated EDA and evaluation
-- Delivered Streamlit-based inference applications for real-time predictions
+- Designed and built 2 application modules end-to-end — schema, REST APIs, and UI
+- Implemented CRUD operations, validations, and business logic following clean-code practices
+- Owned end-to-end testing and debugging, resolving defects pre-release across both modules
+- Translated business requirements into technical specs through requirement analysis and documentation
 
-`Python` `TensorFlow` `YOLOv8` `MLflow` `Docker` `AWS` `Streamlit`
+`Java` `Spring Boot` `REST APIs` `CRUD` `Full Stack` `Clean Code` `Testing`
 
 ---
 
-### Full Stack Developer — Personal & University Projects
-`Sep 2023 – Present`
+## Education
 
-Architected and shipped full-stack applications including student management systems, retention platforms, expense trackers, and portfolio websites serving real user workflows.
+### B.Tech in Computer Science and Information Technology
+`August 2022 – Present` · **CGPA: 8.74**
 
-**Scope of Work**
-- Developed RESTful APIs with Java Spring Boot and Python backends
-- Built responsive frontends with React, TypeScript, and modern CSS frameworks
-- Designed relational database schemas with MySQL and optimized query performance
-- Deployed applications on Vercel and cloud platforms with CI/CD practices
+**REVA University** — Bangalore, KA
 
-`Java` `Spring Boot` `React` `TypeScript` `MySQL` `REST APIs` `Vercel`
+---
+
+### Intermediate in Mathematics, Physics and Chemistry
+`June 2020 – April 2022` · **CGPA: 8.54**
+
+**Sri Chaitanya College** — Anantapur, AP
 
 ---
 
@@ -362,12 +201,11 @@ Architected and shipped full-stack applications including student management sys
 
 | Recognition | Details |
 |:------------|:--------|
-| 26+ Open Source Repositories | Maintained diverse portfolio spanning AI/ML, full-stack, and DevOps projects on GitHub |
-| Healthcare AI System | Built tuberculosis detection platform with 96%+ model accuracy across 3 CNN architectures |
-| Computer Vision Pipeline | Engineered custom YOLOv8 multi-class detection with integrated OCR for license plate recognition |
-| ML Engineering at Scale | Processed 43,739+ delivery records with MLflow-tracked ensemble models |
-| Full Stack Portfolio | Deployed production portfolio on Vercel with modern React architecture |
-| Multi-Domain Engineering | Delivered projects across healthcare, logistics, education, finance, and public health |
+| National Level Karate Competition | Secured 3rd place at national level |
+| Target — Platform Modernization | Resolved SCA vulnerabilities across 4 production repositories |
+| Target — Kafka Infrastructure | Built consumer infrastructure improving visibility for 3+ services |
+| Aikyam — End-to-End Delivery | Shipped 2 complete application modules from schema to UI |
+| Academic Excellence | CGPA 8.74 at REVA University · CGPA 8.54 in Intermediate (MPC) |
 
 </div>
 
@@ -375,36 +213,35 @@ Architected and shipped full-stack applications including student management sys
 
 ## Certifications
 
-### AWS
+### Log2Base2
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner"/>
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect"/>
-  <img src="https://img.shields.io/badge/AWS%20Machine%20Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-5B21B6?style=for-the-badge&logo=code&logoColor=white" alt="DSA Log2Base2"/>
 </p>
 
-### Oracle
+### Salesforce
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle%20Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java"/>
-  <img src="https://img.shields.io/badge/Oracle%20Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
+  <img src="https://img.shields.io/badge/Agentforce%20Specialist-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Agentforce Specialist"/>
 </p>
 
-### NPTEL
+### HackerRank
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning-5B21B6?style=for-the-badge&logo=google-scholar&logoColor=white" alt="NPTEL DL"/>
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Science%20for%20Engineers-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="NPTEL DS"/>
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white" alt="NPTEL Java"/>
+  <img src="https://img.shields.io/badge/Java%20Certification-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Java HackerRank"/>
 </p>
 
-### Cisco
+### GeeksforGeeks
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking"/>
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Security"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Generative AI GFG"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Full Stack GFG"/>
+</p>
+
+### Code with Mosh
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Code with Mosh"/>
 </p>
 
 ---
@@ -413,21 +250,13 @@ Architected and shipped full-stack applications including student management sys
 
 <div align="center">
 
-<a href="https://leetcode.com/u/SaiSatvikGootyKase/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40"/>
 &nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/user/saisatvikgootykase/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="40"/>
 &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/saisatvikgootykase" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" height="40"/>
 &nbsp;&nbsp;
-<a href="https://www.codechef.com/users/saisatvikgootykase" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="40"/>
-</a>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="40"/>
 
 </div>
 
@@ -486,25 +315,24 @@ Architected and shipped full-stack applications including student management sys
 
 ```yaml
 Learning:
-  - System Design & Distributed Systems
-  - Advanced MLOps & LLM Application Development
-  - Cloud-Native Architecture on AWS
+  - Distributed Systems & Event-Driven Architecture
+  - Advanced Spring Boot & Microservices Patterns
+  - System Design for Production-Scale Applications
 
 Building:
-  - Production-grade AI/ML inference pipelines
-  - Full-stack platforms with TypeScript & React
-  - Open-source developer tools & automation systems
+  - Student Retention System — ML-driven dropout prediction platform
+  - MockMeet.AI — AI interview simulation with scoring engine
+  - Kafka-based service integrations and REST API enhancements
 
 Exploring:
-  - Agentic AI workflows & RAG architectures
-  - Kubernetes & container orchestration
-  - Real-time computer vision at scale
+  - OAuth 2.0 & platform security hardening
+  - ML model integration in Spring Boot backends
+  - Generative AI applications in product engineering
 
 Open To:
-  - Software Engineering Internships & Full-Time Roles
-  - AI/ML Engineering Opportunities
-  - Open Source Collaborations
-  - Technical Mentorship & Peer Learning
+  - Backend Software Engineering Roles
+  - Full-Time Software Engineering Opportunities
+  - Microservices & Distributed Systems Positions
 ```
 
 ---
@@ -513,18 +341,11 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:saisatvikgootykase@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/saisatvik-gootykase" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/SaiSatvikGootyKase" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://portfolio-indol-nu-73.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="https://img.shields.io/badge/Gmail-gk.saisatvik@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Phone-%2B91%2083419%2023555-6D28D9?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
 
 </div>
 
@@ -532,7 +353,7 @@ Open To:
 
 <div align="center">
 
-*"Engineering is the art of turning complexity into clarity — one commit at a time."*
+*"Building scalable backends that turn complex systems into reliable, production-ready software."*
 
 <br/>
 
